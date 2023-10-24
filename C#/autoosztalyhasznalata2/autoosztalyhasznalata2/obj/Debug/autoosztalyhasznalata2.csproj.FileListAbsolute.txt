@@ -1,0 +1,7 @@
+K:\Balogh Balázs\C#\autoosztalyhasznalata2\autoosztalyhasznalata2\bin\Debug\autoosztalyhasznalata2.exe.config
+K:\Balogh Balázs\C#\autoosztalyhasznalata2\autoosztalyhasznalata2\bin\Debug\autoosztalyhasznalata2.exe
+K:\Balogh Balázs\C#\autoosztalyhasznalata2\autoosztalyhasznalata2\bin\Debug\autoosztalyhasznalata2.pdb
+K:\Balogh Balázs\C#\autoosztalyhasznalata2\autoosztalyhasznalata2\obj\Debug\autoosztalyhasznalata2.csproj.AssemblyReference.cache
+K:\Balogh Balázs\C#\autoosztalyhasznalata2\autoosztalyhasznalata2\obj\Debug\autoosztalyhasznalata2.csproj.CoreCompileInputs.cache
+K:\Balogh Balázs\C#\autoosztalyhasznalata2\autoosztalyhasznalata2\obj\Debug\autoosztalyhasznalata2.exe
+K:\Balogh Balázs\C#\autoosztalyhasznalata2\autoosztalyhasznalata2\obj\Debug\autoosztalyhasznalata2.pdb

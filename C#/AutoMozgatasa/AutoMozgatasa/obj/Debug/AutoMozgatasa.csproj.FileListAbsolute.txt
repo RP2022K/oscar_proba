@@ -1,0 +1,7 @@
+K:\Balogh Balázs\C#\AutoMozgatasa\AutoMozgatasa\bin\Debug\AutoMozgatasa.exe.config
+K:\Balogh Balázs\C#\AutoMozgatasa\AutoMozgatasa\bin\Debug\AutoMozgatasa.exe
+K:\Balogh Balázs\C#\AutoMozgatasa\AutoMozgatasa\bin\Debug\AutoMozgatasa.pdb
+K:\Balogh Balázs\C#\AutoMozgatasa\AutoMozgatasa\obj\Debug\AutoMozgatasa.csproj.AssemblyReference.cache
+K:\Balogh Balázs\C#\AutoMozgatasa\AutoMozgatasa\obj\Debug\AutoMozgatasa.csproj.CoreCompileInputs.cache
+K:\Balogh Balázs\C#\AutoMozgatasa\AutoMozgatasa\obj\Debug\AutoMozgatasa.exe
+K:\Balogh Balázs\C#\AutoMozgatasa\AutoMozgatasa\obj\Debug\AutoMozgatasa.pdb

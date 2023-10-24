@@ -1,0 +1,13 @@
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\bin\Debug\Sikidomok2.exe.config
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\bin\Debug\Sikidomok2.exe
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\bin\Debug\Sikidomok2.pdb
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.csproj.AssemblyReference.cache
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.Properties.Resources.resources
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.csproj.GenerateResource.cache
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.csproj.CoreCompileInputs.cache
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.exe
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.pdb
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.Form1.resources
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\bin\Debug\MySql.Data.dll
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\bin\Debug\System.Data.SQLite.dll
+K:\Balogh Balázs\C#\Sikidomok2\Sikidomok2\obj\Debug\Sikidomok2.csproj.CopyComplete

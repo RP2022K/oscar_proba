@@ -1,0 +1,7 @@
+K:\Balogh Balázs\C#\AdatFeldolgozas\AdatFeldolgozas\bin\Debug\AdatFeldolgozas.exe.config
+K:\Balogh Balázs\C#\AdatFeldolgozas\AdatFeldolgozas\bin\Debug\AdatFeldolgozas.exe
+K:\Balogh Balázs\C#\AdatFeldolgozas\AdatFeldolgozas\bin\Debug\AdatFeldolgozas.pdb
+K:\Balogh Balázs\C#\AdatFeldolgozas\AdatFeldolgozas\obj\Debug\AdatFeldolgozas.csproj.AssemblyReference.cache
+K:\Balogh Balázs\C#\AdatFeldolgozas\AdatFeldolgozas\obj\Debug\AdatFeldolgozas.csproj.CoreCompileInputs.cache
+K:\Balogh Balázs\C#\AdatFeldolgozas\AdatFeldolgozas\obj\Debug\AdatFeldolgozas.exe
+K:\Balogh Balázs\C#\AdatFeldolgozas\AdatFeldolgozas\obj\Debug\AdatFeldolgozas.pdb

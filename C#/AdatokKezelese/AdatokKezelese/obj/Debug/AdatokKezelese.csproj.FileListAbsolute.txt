@@ -1,0 +1,7 @@
+K:\Balogh Balázs\C#\AdatokKezelese\AdatokKezelese\bin\Debug\AdatokKezelese.exe.config
+K:\Balogh Balázs\C#\AdatokKezelese\AdatokKezelese\bin\Debug\AdatokKezelese.exe
+K:\Balogh Balázs\C#\AdatokKezelese\AdatokKezelese\bin\Debug\AdatokKezelese.pdb
+K:\Balogh Balázs\C#\AdatokKezelese\AdatokKezelese\obj\Debug\AdatokKezelese.csproj.AssemblyReference.cache
+K:\Balogh Balázs\C#\AdatokKezelese\AdatokKezelese\obj\Debug\AdatokKezelese.csproj.CoreCompileInputs.cache
+K:\Balogh Balázs\C#\AdatokKezelese\AdatokKezelese\obj\Debug\AdatokKezelese.exe
+K:\Balogh Balázs\C#\AdatokKezelese\AdatokKezelese\obj\Debug\AdatokKezelese.pdb

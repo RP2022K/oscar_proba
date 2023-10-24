@@ -1,0 +1,7 @@
+K:\Balogh Balázs\C#\AutoOsztalyHasznalata\AutoOsztalyHasznalata\bin\Debug\AutoOsztalyHasznalata.exe.config
+K:\Balogh Balázs\C#\AutoOsztalyHasznalata\AutoOsztalyHasznalata\bin\Debug\AutoOsztalyHasznalata.exe
+K:\Balogh Balázs\C#\AutoOsztalyHasznalata\AutoOsztalyHasznalata\bin\Debug\AutoOsztalyHasznalata.pdb
+K:\Balogh Balázs\C#\AutoOsztalyHasznalata\AutoOsztalyHasznalata\obj\Debug\AutoOsztalyHasznalata.csproj.AssemblyReference.cache
+K:\Balogh Balázs\C#\AutoOsztalyHasznalata\AutoOsztalyHasznalata\obj\Debug\AutoOsztalyHasznalata.csproj.CoreCompileInputs.cache
+K:\Balogh Balázs\C#\AutoOsztalyHasznalata\AutoOsztalyHasznalata\obj\Debug\AutoOsztalyHasznalata.exe
+K:\Balogh Balázs\C#\AutoOsztalyHasznalata\AutoOsztalyHasznalata\obj\Debug\AutoOsztalyHasznalata.pdb

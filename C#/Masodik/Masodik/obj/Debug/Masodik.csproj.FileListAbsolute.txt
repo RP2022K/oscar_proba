@@ -1,0 +1,7 @@
+K:\Balogh Balázs\C#\Masodik\Masodik\bin\Debug\Masodik.exe.config
+K:\Balogh Balázs\C#\Masodik\Masodik\bin\Debug\Masodik.exe
+K:\Balogh Balázs\C#\Masodik\Masodik\bin\Debug\Masodik.pdb
+K:\Balogh Balázs\C#\Masodik\Masodik\obj\Debug\Masodik.csproj.AssemblyReference.cache
+K:\Balogh Balázs\C#\Masodik\Masodik\obj\Debug\Masodik.csproj.CoreCompileInputs.cache
+K:\Balogh Balázs\C#\Masodik\Masodik\obj\Debug\Masodik.exe
+K:\Balogh Balázs\C#\Masodik\Masodik\obj\Debug\Masodik.pdb

@@ -1,0 +1,14 @@
+K:\Balogh Balázs\C#\Elso\Elso\bin\Debug\net6.0\Elso.exe
+K:\Balogh Balázs\C#\Elso\Elso\bin\Debug\net6.0\Elso.deps.json
+K:\Balogh Balázs\C#\Elso\Elso\bin\Debug\net6.0\Elso.runtimeconfig.json
+K:\Balogh Balázs\C#\Elso\Elso\bin\Debug\net6.0\Elso.dll
+K:\Balogh Balázs\C#\Elso\Elso\bin\Debug\net6.0\Elso.pdb
+K:\Balogh Balázs\C#\Elso\Elso\obj\Debug\net6.0\Elso.GeneratedMSBuildEditorConfig.editorconfig
+K:\Balogh Balázs\C#\Elso\Elso\obj\Debug\net6.0\Elso.AssemblyInfoInputs.cache
+K:\Balogh Balázs\C#\Elso\Elso\obj\Debug\net6.0\Elso.AssemblyInfo.cs
+K:\Balogh Balázs\C#\Elso\Elso\obj\Debug\net6.0\Elso.csproj.CoreCompileInputs.cache
+K:\Balogh Balázs\C#\Elso\Elso\obj\Debug\net6.0\Elso.dll
+K:\Balogh Balázs\C#\Elso\Elso\obj\Debug\net6.0\refint\Elso.dll
+K:\Balogh Balázs\C#\Elso\Elso\obj\Debug\net6.0\Elso.pdb
+K:\Balogh Balázs\C#\Elso\Elso\obj\Debug\net6.0\Elso.genruntimeconfig.cache
+K:\Balogh Balázs\C#\Elso\Elso\obj\Debug\net6.0\ref\Elso.dll

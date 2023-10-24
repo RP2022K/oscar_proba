@@ -1,0 +1,16 @@
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\bin\Debug\net6.0-windows\Sikidomok.exe
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\bin\Debug\net6.0-windows\Sikidomok.deps.json
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\bin\Debug\net6.0-windows\Sikidomok.runtimeconfig.json
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\bin\Debug\net6.0-windows\Sikidomok.dll
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\bin\Debug\net6.0-windows\Sikidomok.pdb
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\Sikidomok.Form1.resources
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\Sikidomok.csproj.GenerateResource.cache
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\Sikidomok.GeneratedMSBuildEditorConfig.editorconfig
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\Sikidomok.AssemblyInfoInputs.cache
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\Sikidomok.AssemblyInfo.cs
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\Sikidomok.csproj.CoreCompileInputs.cache
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\Sikidomok.dll
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\refint\Sikidomok.dll
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\Sikidomok.pdb
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\Sikidomok.genruntimeconfig.cache
+K:\Balogh Balázs\C#\Sikidomok\Sikidomok\obj\Debug\net6.0-windows\ref\Sikidomok.dll
